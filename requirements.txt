@@ -1,0 +1,3 @@
+pycel
+openpyxl
+compress-pickle[lz4]
